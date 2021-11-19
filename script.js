@@ -6,12 +6,15 @@ console.log(vwidth)
 if(vheight<vwidth){
   $(".oneOfThree").css("max-width", "35%");
   $(".home").css("flex-direction", "row");
+  $(".home").css("justify-content", "space-evenly");
 }
 
 if(vheight>vwidth){
-  $(".oneOfThree").css("min-width", "50%");
+  $(".oneOfThree").css("width", "50%");
   $(".home").css("flex-direction", "column");
   $(".home").css("align-items", "center");
+   $(".lesleyPic").css("position", "float");
+  $(".lesleyPic").css("width", "15%");
 }
 
 let galleryInfo = [
