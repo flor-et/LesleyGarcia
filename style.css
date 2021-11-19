@@ -36,10 +36,6 @@ a{
   flex-direction: column;
 }
 
-.oneOfThree{
-  max-width: 35%;
-}
-
 .home{
   display: flex;
   flex-direction: row;
