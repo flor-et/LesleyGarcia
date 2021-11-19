@@ -4,11 +4,14 @@ let vwidth = $(window).width();
 console.log(vwidth)
 
 if(vheight<vwidth){
-  $(".oneOfThree").css("max-width", "35%")
+  $(".oneOfThree").css("max-width", "35%");
+  $(".home").css("flex-direction", "row");
 }
 
 if(vheight>vwidth){
-  $(".oneOfThree").css("min-width", "50%")
+  $(".oneOfThree").css("min-width", "50%");
+  $(".home").css("flex-direction", "column");
+  $(".home").css("align-items", "center");
 }
 
 let galleryInfo = [
