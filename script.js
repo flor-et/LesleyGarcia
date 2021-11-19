@@ -8,7 +8,7 @@ if(vheight<vwidth){
 }
 
 if(vheight>vwidth){
-  $(".oneOfThree").css("min-width", "35%")
+  $(".oneOfThree").css("min-width", "50%")
 }
 
 let galleryInfo = [
