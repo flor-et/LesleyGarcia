@@ -1,4 +1,15 @@
+let vheight = $(window).height();
+console.log(vheight)
+let vwidth = $(window).width();
+console.log(vwidth)
 
+if(vheight<vwidth){
+  $(".oneOfThree").css("max-width", "35%")
+}
+
+if(vheight>vwidth){
+  $(".oneOfThree").css("min-width", "35%")
+}
 
 let galleryInfo = [
 ];
