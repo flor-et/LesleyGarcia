@@ -10,9 +10,11 @@ if(vheight<vwidth){
 }
 
 if(vheight>vwidth){
-  $(".oneOfThree").css("min-width", "50%");
+  $(".oneOfThree").css("width", "50%");
   $(".home").css("flex-direction", "column");
   $(".home").css("align-items", "center");
+   $(".lesleyPic").css("position", "float");
+  $(".lesleyPic").css("width", "15%");
 }
 
 let galleryInfo = [
