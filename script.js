@@ -1,3 +1,5 @@
+
+
 let galleryInfo = [
 ];
 
@@ -18,7 +20,7 @@ addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2F03.jpg?v=
 addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2F04.jpg?v=1636058294691", " This piece is just a simple traditional drawing of yet one of my other original characters named Ace. It was a practice to focus on shading and working with black and white and simple light to dark value.")
 addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2F06.jpg?v=1636058294798", "This photo is a simple photo of a cloud but it represents the feeling of childhood nostalgia and how it feels to be at home again during the nice clear skies of summer.")
 addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2F05.jpg?v=1636058296942", "This art piece is of one of my favorite Ghibli movies named, My Neighbour Totoro is one of my favorite science where the character is just waiting at a bus stop.")
-addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2F09.jpg?v=1636058294250", "This piece is just an achievement I was able to win which was a design to make for my Senior class sweaters and be able to have it on our sweaters and to be bought for as well.(Note: the dragon drawing was not made by me, just the design around it which would go on the sweater)")
+addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2F09.jpg?v=1636058294250", "This piece is just an achievement I was able to win which was a design to make for my Senior class sweaters and be able to have it on our sweaters and to be bought for as well.(Note: the dragon itself was traced, I just did the design around it which would go on the sweater)")
 addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2F07.jpg?v=1636058297432", "This is another photo of my dog, Pooky, who is my emotional support animal and the photo is to show the physical feeling of being happy which is bright and warm and in this case, it's supposed to make you feel happy.")
 addImage("https://cdn.glitch.me/480411d1-653e-44c9-8b39-09ffa112a78f%2Funnamed.jpg?v=1636060925517", "This piece is just a simple artwork of my original character, Zoe. She is just an innovative design based on the popularized style of retro.")
 
